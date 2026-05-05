@@ -1,1 +1,1 @@
-This is the original homepage message.
+This is the MAIN branch homepage message.
