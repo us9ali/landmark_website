@@ -1,1 +1,2 @@
-This is the MAIN branch homepage message.
+This is the final homepage message after resolving the conflict.
+
